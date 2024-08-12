@@ -11,7 +11,7 @@ skill set in sql
   Advanced SQL techniques such as `JOIN` operations (Inner, Left, Right, Full, Self), `UNION`, `GROUP BY`, and `HAVING` clauses.
 
 - **Conditional Logic & Functions:**
-  Experienced with `CASE` statements, `NULL` handling, and various SQL functions, including aggregate functions and pattern matching (`LIKE`, `WILDCARDS`).
+  Experience with `CASE` statements, `NULL` handling, and various SQL functions, including aggregate functions and pattern matching (`LIKE`, `WILDCARDS`).
 
 - **Data Integrity & Constraints:**
    Knowledge in defining database schemas with `CREATE TABLE`, `ALTER TABLE`, and enforcing data integrity with constraints (`PRIMARY KEY`, `FOREIGN KEY`, `NOT NULL`, `UNIQUE`, `CHECK`, `DEFAULT`).
@@ -20,7 +20,7 @@ skill set in sql
   Database creation, backup, and restoration (`CREATE DB`, `DROP DB`, `BACKUP DB`).
 
 - **Performance Optimization:**
-  Experienced using indexes (`INDEX`, `AUTO_INCREMENT`) and optimizing query performance.
+  Experience using indexes (`INDEX`, `AUTO_INCREMENT`) and optimizing query performance.
 
 - **Database Administration:**
   Database management, including views, data types, and managing tables (`CREATE`, `DROP`, `ALTER`).
